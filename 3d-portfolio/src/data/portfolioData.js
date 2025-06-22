@@ -85,7 +85,37 @@ export const portfolioData = {
                 "Cart with quantity management",
                 "Address management during checkout"
             ]
+        },
+        {
+            name: "Coach Platform Template",
+            description: "A personal coaching portfolio website with smooth navigation, service showcase, and contact functionality.",
+            technologies: ["React.js", "Tailwind CSS", "Framer Motion"],
+            github: "https://github.com/niyatinehal/coach-platform-template",
+            live: "https://coach-platform-template.vercel.app/",
+            features: [
+                "Responsive landing page with hero section and call-to-action",
+                "About section with coach introduction and personal bio",
+                "Service section with visually appealing cards and descriptions",
+                "Testimonials carousel to showcase client feedback",
+                "Contact form with name, email, and message input"
+            ]
+        },
+        {
+            name: "Sweet Cravings - Bakery Website",
+            description: "A visually appealing bakery website showcasing products, story, and customer reviews with a call-to-action for ordering.",
+            technologies: ["React.js", "Tailwind CSS", "Framer Motion"],
+            github: "https://github.com/niyatinehal/sweet-cravings",
+            live: "https://sweet-cravings.vercel.app/",
+            features: [
+                "Hero section with vibrant visuals and a clear call-to-action",
+                "Product showcase with attractive cards and descriptions",
+                "About section narrating the bakery's story and values",
+                "Customer testimonials to build trust and engagement",
+                "Fully responsive design with smooth transitions and animations"
+            ]
         }
+
+
     ],
 
     certifications: [

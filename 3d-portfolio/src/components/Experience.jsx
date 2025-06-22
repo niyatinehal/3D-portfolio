@@ -2,6 +2,7 @@ import { useRef } from 'react'
 import { useFrame } from '@react-three/fiber'
 import { Box, Text, Sphere } from '@react-three/drei'
 import * as THREE from 'three'
+//
 
 const Experience = ({ data }) => {
     const groupRef = useRef()
